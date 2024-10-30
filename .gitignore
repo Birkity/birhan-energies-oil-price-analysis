@@ -1,0 +1,9 @@
+myenv/
+myenv
+.env
+.vscode/
+data/
+notebooks/mlruns/
+mlruns/
+results
+*.pkl
