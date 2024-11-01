@@ -1,7 +1,7 @@
 # 📈 Birhan Energies - Oil Price Analysis
 
-> **Author:** [Birkity Yishak](https://github.com/Birkity)  
-> **Project Duration:** 1987 - 2022  
+> **Author:** [Birkity Yishak](https://github.com/Birkity)
+>
 > **Objective:** To identify the impact of global events on Brent crude oil prices using statistical time series analysis.
 
 ---
